@@ -1,4 +1,4 @@
-# OrganizeMe
+# Task-Organizer
 
 It's a platform dedicated to organize your everyday work in a structural more ordered way, so that you don't miss any of your goals.
 
@@ -8,20 +8,20 @@ It's a platform dedicated to organize your everyday work in a structural more or
 
 ## Demo
 
-https://organize-me-nu.vercel.app/
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/anshumanSathua/OrganizeMe
+
 ```
 
 Go to the project directory
 
 ```bash
-  cd OrganizeMe
+  cd Task-Organizer
 ```
 
 Install dependencies
