@@ -28,7 +28,7 @@ Tasks/activities can be added ,set with deadlines including urgency tags and del
 Clone the project
 
 ```bash
-git clone https://github.com/Muees99/Task-Organizer.git
+git clone https://github.com/Muees99/DailyDoer.git
 ```
 
 Go to the project directory
