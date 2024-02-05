@@ -15,7 +15,7 @@ It's a platform dedicated to organize your everyday work in a structural more or
 Clone the project
 
 ```bash
-
+git clone https://github.com/Muees99/Task-Organizer.git
 ```
 
 Go to the project directory
