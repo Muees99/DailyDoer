@@ -1,5 +1,5 @@
 # Project Title
-# Task-Organizer
+# DailyDoer
 
 
 This project was created to fulfill an assessment for a frontend developer intern role.
