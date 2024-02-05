@@ -1,12 +1,25 @@
+# Project Title
 # Task-Organizer
 
-It's a platform dedicated to organize your everyday work in a structural more ordered way, so that you don't miss any of your goals.
 
-## Badges
+This project was created to fulfill an assessment for a frontend developer intern role.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## Technologies Used
 
-## Demo
+- React.js
+- HTML
+- Tailwind CSS
+
+## About
+
+This application is a [It's a platform dedicated to organize your everyday work in a structural more ordered way, so that you don't miss any of your goals.].
+
+## Usage
+Tasks/activities can be added ,set with deadlines including urgency tags and deleted upon completion to keep track productivity be it daily, weekly,monthly and so on 
+
+
+
+
 
 
 
