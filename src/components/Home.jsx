@@ -48,7 +48,7 @@ const Home = () => {
 
   return (
     <Layout>
-      <section className="max-w-md md:w-[800px] h-[500px] bg-slate-100 mx-auto mt-4 rounded-md shadow-md">
+      <section className="max-w-md md:w-[800px]  bg-slate-100 mx-auto mt-4 rounded-md shadow-md">
         <div className="flex flex-row justify-between items-center md:mx-5 pt-5">
           <button
             onClick={handleAddTodoClick}
