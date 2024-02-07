@@ -29,7 +29,6 @@ const App = () => {
   }
 
   return (
-    // <div className="bg-slate-200 w-[100vw] h-[100vh]">
     <div className="bg-slate-200 min-h-screen">
       {/* <BrowserRouter> */}
         <Routes>
