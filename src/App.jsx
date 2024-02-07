@@ -31,7 +31,7 @@ const App = () => {
   return (
     // <div className="bg-slate-200 w-[100vw] h-[100vh]">
     <div className="bg-slate-200 min-h-screen">
-      <BrowserRouter>
+      {/* <BrowserRouter> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/add" element={<Addtodo />} />
@@ -39,7 +39,7 @@ const App = () => {
           <Route path="/todo/:id" element={<TodoItem />} />
           <Route path="/search" element={<Search />} />
         </Routes>
-      </BrowserRouter>
+      {/* </BrowserRouter> */}
     </div>
   );
 };
