@@ -18,6 +18,8 @@ This application is a [It's a platform dedicated to organize your everyday work 
 Tasks/activities can be added ,set with deadlines including urgency tags and deleted upon completion to keep track productivity be it daily, weekly,monthly and so on 
 
 
+#Demo
+[Daily Doer](https://daily-doer-pied.vercel.app/)
 
 
 
