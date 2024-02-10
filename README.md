@@ -12,7 +12,7 @@ This project was created to fulfill an assessment for a frontend developer inter
 
 ## About
 
-This application is a [It's a platform dedicated to organize your everyday work in a structural more ordered way, so that you don't miss any of your goals.].
+The Daily Doer is a dynamic and feature-rich Todo App built with ReactJS. It offers a seamless user experience, allowing users to create, edit, and organize their tasks effortlessly.
 
 ## Usage
 Tasks/activities can be added ,set with deadlines including urgency tags and deleted upon completion to keep track productivity be it daily, weekly,monthly and so on 
