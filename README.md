@@ -37,7 +37,7 @@ git clone https://github.com/Muees99/DailyDoer.git
 Go to the project directory
 
 ```bash
-  cd Task-Organizer
+  cd DailyDoer
 ```
 
 Install dependencies
